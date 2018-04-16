@@ -15,8 +15,6 @@ namespace App13
 
             NavigationPage naviPage =  new NavigationPage( new App13.MainPage());
             MainPage = naviPage;
-            //var converter = new ColorTypeConverter();
-
             naviPage.BarBackgroundColor = Color.FromHex("#cc66ff");
 		}
 

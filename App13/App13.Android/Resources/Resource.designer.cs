@@ -4316,6 +4316,9 @@ namespace App13.Droid
 			// aapt resource value: 0x7f0b000e
 			public const int CardView_Light = 2131427342;
 			
+			// aapt resource value: 0x7f0b018e
+			public const int DrawerArrowStyle = 2131427726;
+			
 			// aapt resource value: 0x7f0b0189
 			public const int MainTheme = 2131427721;
 			
